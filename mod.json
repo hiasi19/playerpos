@@ -1,0 +1,10 @@
+{
+    "Name": "playerpos",
+	"Authors": ["hiasi19"],
+    "Description": "find position of soldiers",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
